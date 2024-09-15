@@ -15,5 +15,4 @@ POST запрос отправляется в формате:
         "product_name":"prod_02",
         "product_price":"20",
         "product_quantity":"5"
-    }
-]
+    }]
