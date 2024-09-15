@@ -16,5 +16,4 @@ POST запрос отправляется в формате:
         "product_price":"20",
         "product_quantity":"5"
     }
-
 ]
